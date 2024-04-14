@@ -1,2 +1,2 @@
 # NoteApp
-A simple note app created using react and typescript
+A simple note web app created using react and typescript.
